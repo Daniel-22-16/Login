@@ -75,3 +75,9 @@ body{
     text-align: center;
     letter-spacing: 2px;
 }
+
+.top p span{
+    color: #f0f;
+    text-shadow: 0 0 10px #70f,
+    0 0 20px #70f;
+}
