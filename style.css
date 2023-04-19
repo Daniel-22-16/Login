@@ -36,3 +36,8 @@ body{
     list-style: none;
     transition: 0.5s ease;
 }
+
+.header .navbar li:hover{
+    scale: 1.2;
+}
+
