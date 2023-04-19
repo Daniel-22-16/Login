@@ -24,3 +24,10 @@ body{
     font-size: 30px;
     text-shadow: 0 0 10px #70f , 0 0 20px #70f;
 }
+
+.header .navbar{
+    display: flex;
+    width: 600px;
+    justify-content: space-around;
+    margin-right: 30px;
+}
