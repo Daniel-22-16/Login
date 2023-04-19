@@ -100,3 +100,7 @@ body{
     justify-content: space-between;
     align-items: center;
 }
+
+.remember input{
+    margin-left: -90px;
+}
