@@ -17,3 +17,10 @@ body{
     justify-content: space-between;
     align-items: center;
 }
+
+.header .logoh2{
+    color: #fff;
+    font-family: cursive;
+    font-size: 30px;
+    text-shadow: 0 0 10px #70f , 0 0 20px #70f;
+}
