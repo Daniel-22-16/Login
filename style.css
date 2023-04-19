@@ -31,3 +31,8 @@ body{
     justify-content: space-around;
     margin-right: 30px;
 }
+
+.header .navbar li{
+    list-style: none;
+    transition: 0.5s ease;
+}
