@@ -110,3 +110,19 @@ body{
     text-decoration: none;
     font-weight: bold;
 }
+
+button{
+    background: linear-gradient(45deg,#f0f,#70f);
+    color: #fff;
+    padding: 12px 20px;
+    width: 100%;
+    border: none;
+    margin: 8px 0;
+    text-transform: uppercase;
+    font-size: 15px;
+    font-weight: bold;
+    border-radius: 5px;
+    letter-spacing: 1px;
+    cursor: pointer;
+    transition: 0.5s ease;
+}
