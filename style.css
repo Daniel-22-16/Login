@@ -10,3 +10,10 @@ body{
     background-attachment: fixed;
     background-position: center;
 }
+
+.header{
+    display: flex;
+    height: 60px;
+    justify-content: space-between;
+    align-items: center;
+}
