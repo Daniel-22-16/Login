@@ -139,3 +139,8 @@ button:hover{
     display: flex;
     justify-content: space-between;
 }
+
+.other button{
+    width: 150px;
+    background: linear-gradient(135deg,#70f,#0ff);
+}
