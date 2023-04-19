@@ -144,3 +144,7 @@ button:hover{
     width: 150px;
     background: linear-gradient(135deg,#70f,#0ff);
 }
+
+.bottom h4{
+    text-align: center;
+}
