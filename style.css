@@ -130,3 +130,7 @@ button{
 button:hover{
     filter: brightness(2);
 }
+
+.bottom p{
+    text-align: center;
+}
