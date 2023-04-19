@@ -104,3 +104,9 @@ body{
 .remember input{
     margin-left: -90px;
 }
+
+.bottom .remember a,.bottom a{
+    color: #70f;
+    text-decoration: none;
+    font-weight: bold;
+}
