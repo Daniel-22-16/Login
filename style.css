@@ -81,3 +81,16 @@ body{
     text-shadow: 0 0 10px #70f,
     0 0 20px #70f;
 }
+
+.middle input{
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    font-size: 15px;
+    border: none;
+    outline: none;
+    background: rgba(255,255,255,0.02);
+    color: #fff;
+    border-radius: 5px;
+}
