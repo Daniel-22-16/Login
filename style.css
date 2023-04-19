@@ -134,3 +134,8 @@ button:hover{
 .bottom p{
     text-align: center;
 }
+
+.other{
+    display: flex;
+    justify-content: space-between;
+}
